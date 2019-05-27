@@ -1,2 +1,3 @@
 # hello-world
-just another store
+hi!
+I am a green hand on the github.
